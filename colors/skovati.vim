@@ -15,12 +15,12 @@ let g:colors_name = 'skovati'
 """""""""""""""""""""""""""""""""""""""
 " status bar colors
 """""""""""""""""""""""""""""""""""""""
-hi User1        ctermfg=0       ctermbg=2
-hi User2        ctermfg=0       ctermbg=4
-hi User3        ctermfg=0       ctermbg=1
-hi User4        ctermfg=0       ctermbg=5
-hi User5        ctermfg=0       ctermbg=3
-hi User6        ctermfg=none    ctermbg=0
+hi User1        ctermfg=0       ctermbg=2       cterm=bold   
+hi User2        ctermfg=0       ctermbg=4       cterm=bold
+hi User3        ctermfg=0       ctermbg=1       cterm=bold
+hi User4        ctermfg=0       ctermbg=5       cterm=bold
+hi User5        ctermfg=0       ctermbg=3       cterm=bold
+hi User6        ctermfg=none    ctermbg=0       cterm=bold
 
 """""""""""""""""""""""""""""""""""""""
 " general syntax colors
@@ -50,8 +50,8 @@ hi LineNr       ctermbg=none        ctermfg=3
 hi CursorLine   ctermbg=2           ctermfg=0
 hi CursorLineNr ctermbg=none        ctermfg=8
 hi TabLine      ctermbg=none        ctermfg=none
-hi TabLineSel   ctermbg=3           ctermfg=15
-hi TabLineFill  ctermbg=none        ctermfg=none
+hi TabLineSel   ctermbg=1           ctermfg=0       cterm=bold
+hi TabLineFill  ctermbg=none        ctermfg=0
 hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
 hi SpellRare    ctermbg=none        ctermfg=7       cterm=underline
 hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
@@ -65,6 +65,7 @@ hi goBuiltins       ctermbg=none    ctermfg=5       cterm=bold
 hi goConstants      ctermbg=none    ctermfg=6
 hi goParens         ctermbg=2       ctermfg=15
 hi goBlock          ctermbg=4       ctermfg=15
+hi goFunctionCall   ctermbg=none    ctermfg=4
 
 """""""""""""""""""""""""""""""""""""""
 " markdown colors
