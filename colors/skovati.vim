@@ -65,8 +65,12 @@ hi goBuiltins       ctermbg=none    ctermfg=5       cterm=bold
 hi goConstants      ctermbg=none    ctermfg=6
 hi goParens         ctermbg=2       ctermfg=15
 hi goBlock          ctermbg=4       ctermfg=15
-hi golangFunctionCall   ctermbg=none    ctermfg=4
 hi goComment        ctermbg=none    ctermfg=5
+hi golangFunctionCall   ctermbg=none    ctermfg=4
+    hi link golangParens golangFunctionCall
+hi golangAddr       ctermbg=none    ctermfg=2
+    hi link golangPointer golangAddr
+    hi link golangAssign golangAddr
 
 """""""""""""""""""""""""""""""""""""""
 " markdown colors
