@@ -60,3 +60,21 @@ hi goBuiltins       ctermbg=none    ctermfg=5       cterm=bold
 hi goConstants      ctermbg=none    ctermfg=6
 hi goParens         ctermbg=2       ctermfg=15
 hi goBlock          ctermbg=4       ctermfg=15
+
+"""""""""""""""""""""""""""""""""""""""
+" markdown colors
+"""""""""""""""""""""""""""""""""""""""
+hi markdownH1 ctermbg=NONE ctermfg=2
+    hi link markdownH2 markdownH1
+    hi link markdownH3 markdownH1
+    hi link markdownH4 markdownH1
+    hi link markdownH5 markdownH1
+    hi link markdownH6 markdownH1
+hi markdownAutomaticLink ctermbg=none ctermfg=2 cterm=underline
+    hi link markdownUrl markdownAutomaticLink
+hi markdownError            ctermbg=none        ctermfg=1
+hi markdownCode             ctermbg=none        ctermfg=3
+hi markdownCodeBlock        ctermbg=none        ctermfg=3
+hi markdownCodeDelimiter    ctermbg=none        ctermfg=5
+hi markdownItalic           cterm=Italic
+hi markdownBold             cterm=Bold
