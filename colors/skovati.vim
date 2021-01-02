@@ -60,7 +60,7 @@ hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
 """""""""""""""""""""""""""""""""""""""
 " golang colors
 """""""""""""""""""""""""""""""""""""""
-hi goDeclaration    ctermbg=none    ctermfg=3       cterm=bold, italic
+hi goDeclaration    ctermbg=none    ctermfg=3       cterm=bold,italic
 hi goBuiltins       ctermbg=none    ctermfg=5       cterm=bold
 hi goConstants      ctermbg=none    ctermfg=6
 hi goParens         ctermbg=2       ctermfg=15
