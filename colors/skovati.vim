@@ -52,7 +52,7 @@ hi TabLine      ctermbg=none        ctermfg=none
 hi TabLineSel   ctermbg=3           ctermfg=15
 hi TabLineFill  ctermbg=none        ctermfg=none
 hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
-hi SpellRare    ctermbg=none        ctermfg=15       cterm=underline
+hi SpellRare    ctermbg=0        ctermfg=15       cterm=underline
     hi link SpellCap SpellRare
     hi link SpellLocal SpellRare
 
