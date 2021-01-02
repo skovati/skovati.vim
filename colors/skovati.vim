@@ -46,6 +46,7 @@ hi NonText      ctermbg=none        ctermfg=0
 hi Visual       ctermbg=0           ctermfg=15      cterm=reverse term=reverse
 hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0
+hi LineNr       ctermbg=none        ctermfg=5
 hi CursorLine   ctermbg=2           ctermfg=0
 hi CursorLineNr ctermbg=none        ctermfg=8
 hi TabLine      ctermbg=none        ctermfg=none
