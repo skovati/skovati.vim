@@ -51,12 +51,10 @@ hi CursorLineNr ctermbg=none        ctermfg=8
 hi TabLine      ctermbg=none        ctermfg=none
 hi TabLineSel   ctermbg=3           ctermfg=15
 hi TabLineFill  ctermbg=none        ctermfg=none
-hi clear SpellBad
-hi clear SpellRare
 hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
-hi SpellRare    ctermbg=none        ctermfg=1       cterm=underline
-    hi link SpellCap SpellRare
-    hi link SpellLocal SpellRare
+hi SpellRare    ctermbg=none        ctermfg=7       cterm=underline
+hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
+hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
 
 """""""""""""""""""""""""""""""""""""""
 " golang colors
