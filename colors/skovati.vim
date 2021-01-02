@@ -62,7 +62,7 @@ hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
 """""""""""""""""""""""""""""""""""""""
 hi goDeclaration    ctermbg=none    ctermfg=3       cterm=bold
 hi goBuiltins       ctermbg=none    ctermfg=5       cterm=bold
-hi goConstants      ctermbg=none    ctermfg=6
+hi goConstants      ctermbg=none    ctermfg=6       cterm=bold
 hi goParens         ctermbg=2       ctermfg=15
 hi goBlock          ctermbg=4       ctermfg=15
 hi goComment        ctermbg=none    ctermfg=5
