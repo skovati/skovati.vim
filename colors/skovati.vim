@@ -48,9 +48,12 @@ hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0
 hi CursorLine   ctermbg=2           ctermfg=0
 hi CursorLineNr ctermbg=none        ctermfg=8
-hi TabLine      ctermbg=0           ctermfg=none
+hi TabLine      ctermbg=none        ctermfg=none
 hi TabLineSel   ctermbg=3           ctermfg=15
-hi TabLineFill  ctermbg=0           ctermfg=none
+hi TabLineFill  ctermbg=none        ctermfg=none
+hi SpellBad     ctermbg=NONE        ctermfg=1       cterm=underline
+hi SpellRare     ctermbg=NONE        ctermfg=15       cterm=underline
+    hi link SpellCap SpellRare
 
 """""""""""""""""""""""""""""""""""""""
 " golang colors
@@ -64,7 +67,7 @@ hi goBlock          ctermbg=4       ctermfg=15
 """""""""""""""""""""""""""""""""""""""
 " markdown colors
 """""""""""""""""""""""""""""""""""""""
-hi markdownH1 ctermbg=NONE ctermfg=2
+hi markdownH1 ctermbg=none ctermfg=2
     hi link markdownH2 markdownH1
     hi link markdownH3 markdownH1
     hi link markdownH4 markdownH1
