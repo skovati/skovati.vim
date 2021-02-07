@@ -60,6 +60,8 @@ hi Pmenu        ctermbg=8           ctermfg=15
 hi PmenuSbar    ctermbg=7           ctermfg=15
 hi PmenuSel     ctermbg=4           ctermfg=0
 hi PmenuThumb   ctermbg=8           ctermfg=8
+hi EndOfBuffer  ctermbg=none        ctermfg=none
+hi TabLineFill  ctermbg=none        ctermfg=black 
 
 """""""""""""""""""""""""""""""""""""""
 " golang colors
