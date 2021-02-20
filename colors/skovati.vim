@@ -95,3 +95,8 @@ hi markdownCodeBlock        ctermbg=none        ctermfg=3
 hi markdownCodeDelimiter    ctermbg=none        ctermfg=5
 hi markdownItalic           cterm=Italic
 hi markdownBold             cterm=Bold
+
+"""""""""""""""""""""""""""""""""""""""
+" java colors
+"""""""""""""""""""""""""""""""""""""""
+hi javaType                 ctermbg=none        =ctermfg=2
