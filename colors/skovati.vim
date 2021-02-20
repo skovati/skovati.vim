@@ -99,4 +99,4 @@ hi markdownBold             cterm=Bold
 """""""""""""""""""""""""""""""""""""""
 " java colors
 """""""""""""""""""""""""""""""""""""""
-hi javaType                 ctermbg=none        =ctermfg=2
+hi javaType                 ctermbg=none        ctermfg=2       cterm=bold
