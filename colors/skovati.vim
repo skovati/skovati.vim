@@ -47,8 +47,8 @@ hi Visual       ctermbg=0           ctermfg=15      cterm=reverse term=reverse
 hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0
 hi LineNr       ctermbg=none        ctermfg=1       cterm=bold
-hi CursorLine   ctermbg=none        ctermfg=none    cterm=underline
-hi CursorLineNr ctermbg=none        ctermfg=none    cterm=underline
+hi CursorLine   ctermbg=234         ctermfg=none    
+hi CursorLineNr ctermbg=234         ctermfg=1       cterm=bold
 hi TabLine      ctermbg=none        ctermfg=none
 hi TabLineSel   ctermbg=1           ctermfg=0       cterm=bold
 hi TabLineFill  ctermbg=none        ctermfg=0
