@@ -62,13 +62,20 @@ hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
 hi SpellRare    ctermbg=none        ctermfg=7       cterm=underline
 hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
 hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
-hi Pmenu        ctermbg=8           ctermfg=15
+hi Pmenu        ctermbg=8           ctermfg=0
 hi PmenuSbar    ctermbg=7           ctermfg=15
 hi PmenuSel     ctermbg=4           ctermfg=0
 hi PmenuThumb   ctermbg=8           ctermfg=8
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
+
+"""""""""""""""""""""""""""""""""""""""
+" Coc Colors
+"""""""""""""""""""""""""""""""""""""""
+hi SignColumn   ctermbg=none
+hi CocFloating  ctermbg=none        ctermfg=none
+
 """""""""""""""""""""""""""""""""""""""
 " golang colors
 """""""""""""""""""""""""""""""""""""""
