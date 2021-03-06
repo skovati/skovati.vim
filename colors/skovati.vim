@@ -24,6 +24,7 @@ hi User6        ctermfg=0       ctermbg=6       cterm=bold
 hi User7        ctermfg=0       ctermbg=7       cterm=bold
 hi User8        ctermfg=none    ctermbg=0       cterm=bold
 hi User9        ctermfg=1       ctermbg=0       cterm=bold
+hi StatusLine   ctermfg=0       ctermbg=0       
 hi StatusLineNC ctermfg=0       ctermbg=0       
 
 """""""""""""""""""""""""""""""""""""""
