@@ -62,7 +62,7 @@ hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
 hi SpellRare    ctermbg=none        ctermfg=7       cterm=underline
 hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
 hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
-hi Pmenu        ctermbg=238         ctermfg=7       cterm=bold
+hi Pmenu        ctermbg=236         ctermfg=7       cterm=bold
 hi PmenuSbar    ctermbg=0           ctermfg=7
 hi PmenuSel     ctermbg=7           ctermfg=0       cterm=bold
 hi PmenuThumb   ctermbg=0           ctermfg=7
@@ -74,7 +74,7 @@ hi VertSplit    ctermbg=8           ctermfg=0
 " Coc Colors
 """""""""""""""""""""""""""""""""""""""
 hi SignColumn           ctermbg=none
-hi CocFloating          ctermbg=238         ctermfg=7    cterm=bold
+hi link CocFloating Pmenu
     hi link CocErrorFloat CocFloating
     hi link CocWarningFloat CocFloating
     hi link CocInfoFloat CocFloating
