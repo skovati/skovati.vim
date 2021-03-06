@@ -23,7 +23,7 @@ hi User5        ctermfg=0       ctermbg=5       cterm=bold
 hi User6        ctermfg=0       ctermbg=6       cterm=bold
 hi User7        ctermfg=0       ctermbg=7       cterm=bold
 hi User8        ctermfg=none    ctermbg=0       cterm=bold
-hi User9        ctermfg=0       ctermbg=8       cterm=bold
+hi User9        ctermfg=1       ctermbg=0       cterm=bold
 
 """""""""""""""""""""""""""""""""""""""
 " general syntax colors
@@ -65,6 +65,7 @@ hi PmenuSel     ctermbg=4           ctermfg=0
 hi PmenuThumb   ctermbg=8           ctermfg=8
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
+hi VertSplit    ctermbg=8           ctermfg=0
 
 """""""""""""""""""""""""""""""""""""""
 " golang colors
