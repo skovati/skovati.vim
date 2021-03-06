@@ -73,8 +73,11 @@ hi VertSplit    ctermbg=8           ctermfg=0
 """""""""""""""""""""""""""""""""""""""
 " Coc Colors
 """""""""""""""""""""""""""""""""""""""
-hi SignColumn   ctermbg=none
-hi CocFloating  ctermbg=none        ctermfg=none
+hi SignColumn           ctermbg=none
+hi CocFloating          ctermbg=7        ctermfg=0
+hi CocWarningFloat      ctermbg=2        ctermfg=0
+hi CocInfoFloat         ctermbg=7        ctermfg=0
+hi CocErrorFloat        ctermbg=1        ctermfg=0
 
 """""""""""""""""""""""""""""""""""""""
 " golang colors
