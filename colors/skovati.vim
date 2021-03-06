@@ -24,6 +24,7 @@ hi User6        ctermfg=0       ctermbg=6       cterm=bold
 hi User7        ctermfg=0       ctermbg=7       cterm=bold
 hi User8        ctermfg=none    ctermbg=0       cterm=bold
 hi User9        ctermfg=1       ctermbg=0       cterm=bold
+hi StatusLineNC ctermfg=0       ctermbg=0       
 
 """""""""""""""""""""""""""""""""""""""
 " general syntax colors
@@ -66,7 +67,6 @@ hi PmenuThumb   ctermbg=8           ctermfg=8
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
-
 """""""""""""""""""""""""""""""""""""""
 " golang colors
 """""""""""""""""""""""""""""""""""""""
