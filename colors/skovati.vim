@@ -16,8 +16,8 @@ let g:colors_name = 'skovati'
 " status bar colors
 """""""""""""""""""""""""""""""""""""""
 hi User1        ctermfg=0       ctermbg=2       cterm=bold   
-hi User2        ctermfg=0       ctermbg=4       cterm=bold
-hi User3        ctermfg=0       ctermbg=1       cterm=bold
+hi User2        ctermfg=4       ctermbg=0       cterm=bold
+hi User3        ctermfg=1       ctermbg=0       cterm=bold
 hi User4        ctermfg=0       ctermbg=5       cterm=bold
 hi User5        ctermfg=0       ctermbg=3       cterm=bold
 hi User6        ctermfg=none    ctermbg=0       cterm=bold
