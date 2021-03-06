@@ -64,8 +64,8 @@ hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
 hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
 hi Pmenu        ctermbg=8           ctermfg=0       cterm=bold
 hi PmenuSbar    ctermbg=8           ctermfg=0
-hi PmenuSel     ctermbg=0           ctermfg=0       cterm=bold,underline
-hi PmenuThumb   ctermbg=8           ctermfg=7       cterm=bold
+hi PmenuSel     ctermbg=0           ctermfg=7       cterm=bold,underline
+hi PmenuThumb   ctermbg=0           ctermfg=8
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
