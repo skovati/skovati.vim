@@ -62,10 +62,10 @@ hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
 hi SpellRare    ctermbg=none        ctermfg=7       cterm=underline
 hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
 hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
-hi Pmenu        ctermbg=0           ctermfg=7
-hi PmenuSbar    ctermbg=0           ctermfg=1
-hi PmenuSel     ctermbg=3           ctermfg=0
-hi PmenuThumb   ctermbg=0           ctermfg=7       cterm=bold
+hi Pmenu        ctermbg=8           ctermfg=7
+hi PmenuSbar    ctermbg=8           ctermfg=1
+hi PmenuSel     ctermbg=3           ctermfg=7
+hi PmenuThumb   ctermbg=8           ctermfg=7       cterm=bold
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
@@ -74,9 +74,9 @@ hi VertSplit    ctermbg=8           ctermfg=0
 " Coc Colors
 """""""""""""""""""""""""""""""""""""""
 hi SignColumn           ctermbg=none
-hi CocFloating          ctermbg=7        ctermfg=0  cterm=bold
+hi CocFloating          ctermbg=8        ctermfg=0  cterm=bold
 hi CocWarningFloat      ctermbg=3        ctermfg=0  cterm=bold
-hi CocInfoFloat         ctermbg=7        ctermfg=0  cterm=bold
+hi CocInfoFloat         ctermbg=8        ctermfg=0  cterm=bold
 hi CocErrorFloat        ctermbg=1        ctermfg=0  cterm=bold
 
 """""""""""""""""""""""""""""""""""""""
