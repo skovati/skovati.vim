@@ -62,9 +62,9 @@ hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
 hi SpellRare    ctermbg=none        ctermfg=7       cterm=underline
 hi SpellCap     ctermbg=none        ctermfg=7       cterm=underline
 hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
-hi Pmenu        ctermbg=8           ctermfg=7
-hi PmenuSbar    ctermbg=8           ctermfg=1
-hi PmenuSel     ctermbg=3           ctermfg=7
+hi Pmenu        ctermbg=8           ctermfg=0       cterm=bold
+hi PmenuSbar    ctermbg=8           ctermfg=0
+hi PmenuSel     ctermbg=0           ctermfg=0       cterm=bold,underline
 hi PmenuThumb   ctermbg=8           ctermfg=7       cterm=bold
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
