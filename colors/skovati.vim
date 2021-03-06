@@ -65,7 +65,7 @@ hi SpellLocal   ctermbg=none        ctermfg=7       cterm=underline
 hi Pmenu        ctermbg=7           ctermfg=0
 hi PmenuSbar    ctermbg=7           ctermfg=0
 hi PmenuSel     ctermbg=3           ctermfg=0
-hi PmenuThumb   ctermbg=7           ctermfg=0
+hi PmenuThumb   ctermbg=7           ctermfg=0       cterm=bold
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
@@ -74,10 +74,10 @@ hi VertSplit    ctermbg=8           ctermfg=0
 " Coc Colors
 """""""""""""""""""""""""""""""""""""""
 hi SignColumn           ctermbg=none
-hi CocFloating          ctermbg=7        ctermfg=0
-hi CocWarningFloat      ctermbg=7        ctermfg=3
-hi CocInfoFloat         ctermbg=7        ctermfg=0
-hi CocErrorFloat        ctermbg=7        ctermfg=1
+hi CocFloating          ctermbg=7        ctermfg=0  cterm=bold
+hi CocWarningFloat      ctermbg=3        ctermfg=0  cterm=bold
+hi CocInfoFloat         ctermbg=7        ctermfg=0  cterm=bold
+hi CocErrorFloat        ctermbg=1        ctermfg=0  cterm=bold
 
 """""""""""""""""""""""""""""""""""""""
 " golang colors
