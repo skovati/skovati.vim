@@ -70,6 +70,7 @@ hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
 hi Directory    ctermbg=0           ctermfg=3
+hi TagbarSignature  ctermbg=0       ctermfg=6
 
 """""""""""""""""""""""""""""""""""""""
 " Coc Colors
