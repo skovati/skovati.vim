@@ -69,6 +69,7 @@ hi PmenuThumb   ctermbg=0           ctermfg=7
 hi EndOfBuffer  ctermbg=none        ctermfg=none
 hi TabLineFill  ctermbg=none        ctermfg=black 
 hi VertSplit    ctermbg=8           ctermfg=0
+hi Directory    ctermbg=0           ctermfg=3
 
 """""""""""""""""""""""""""""""""""""""
 " Coc Colors
