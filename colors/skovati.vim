@@ -49,13 +49,13 @@ hi Folded       ctermbg=none        ctermfg=8
 """""""""""""""""""""""""""""""""""""""
 " vim colors
 """""""""""""""""""""""""""""""""""""""
-hi Visual       ctermbg=0           ctermfg=15      cterm=reverse term=reverse
+hi Visual       ctermbg=236         ctermfg=none    cterm=none
 hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0
 hi LineNr       ctermbg=none        ctermfg=1       cterm=bold
 hi CursorLine   ctermbg=234         ctermfg=none    cterm=none
 hi CursorLineNr ctermbg=234         ctermfg=1       cterm=bold
-hi TabLine      ctermbg=none        ctermfg=none
+hi TabLine      ctermbg=none        ctermfg=none    cterm=none
 hi TabLineSel   ctermbg=1           ctermfg=0       cterm=bold
 hi TabLineFill  ctermbg=none        ctermfg=0
 hi SpellBad     ctermbg=none        ctermfg=1       cterm=underline
