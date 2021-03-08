@@ -45,6 +45,7 @@ hi Character    ctermbg=none        ctermfg=4
 hi Title        ctermbg=none        ctermfg=5
 hi NonText      ctermbg=none        ctermfg=0
 hi Folded       ctermbg=none        ctermfg=8
+hi Special      ctermbg=none        ctermfg=6
 
 """""""""""""""""""""""""""""""""""""""
 " vim colors
