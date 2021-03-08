@@ -51,7 +51,7 @@ hi Folded       ctermbg=none        ctermfg=8
 """""""""""""""""""""""""""""""""""""""
 hi Visual       ctermbg=236         ctermfg=none    cterm=none
 hi Cursor       ctermbg=none        ctermfg=15
-hi Search       ctermbg=3           ctermfg=0
+hi Search       ctermbg=3           ctermfg=0       cterm=bold
 hi LineNr       ctermbg=none        ctermfg=1       cterm=bold
 hi CursorLine   ctermbg=234         ctermfg=none    cterm=none
 hi CursorLineNr ctermbg=234         ctermfg=1       cterm=bold
@@ -120,3 +120,4 @@ hi markdownBold             cterm=Bold
 hi javaType                 ctermbg=none        ctermfg=2       cterm=bold
 hi javaFunctionCall         ctermbg=none        ctermfg=4       
 hi javaParens               ctermbg=none        ctermfg=4
+hi javaCommentTitle         ctermbg=none        ctermfg=3
