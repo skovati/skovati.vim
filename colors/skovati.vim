@@ -120,4 +120,5 @@ hi markdownBold             cterm=Bold
 hi javaType                 ctermbg=none        ctermfg=2       cterm=bold
 hi javaFunctionCall         ctermbg=none        ctermfg=4       
 hi javaParens               ctermbg=none        ctermfg=4
-hi javaCommentTitle         ctermbg=none        ctermfg=3
+hi javaCommentTitle         ctermbg=none        ctermfg=5
+hi javaDocTags              ctermbg=none        ctermfg=6
