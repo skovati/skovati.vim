@@ -5,6 +5,8 @@
 " golang
 " python
 " java
+" vimwiki
+" markdown
 """""""""""""""""""""""""""""""""""""""
 
 """""""""""""""""""""""""""""""""""""""
@@ -98,7 +100,7 @@ hi golangAddr       ctermbg=none    ctermfg=2
     hi link golangAssign golangAddr
 
 """""""""""""""""""""""""""""""""""""""
-" markdown colors
+" markdown/vimwiki colors
 """""""""""""""""""""""""""""""""""""""
 hi markdownH1 ctermbg=none ctermfg=2
     hi link markdownH2 markdownH1
@@ -114,6 +116,10 @@ hi markdownCodeBlock        ctermbg=none        ctermfg=3
 hi markdownCodeDelimiter    ctermbg=none        ctermfg=5
 hi markdownItalic           cterm=Italic
 hi markdownBold             cterm=Bold
+
+hi VimwikiHeader1           ctermbg=none        ctermfg=3
+hi VimwikiHeader2           ctermbg=none        ctermfg=5
+hi VimwikiHeader3           ctermbg=none        ctermfg=4
 
 """""""""""""""""""""""""""""""""""""""
 " java colors
