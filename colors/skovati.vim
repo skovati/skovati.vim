@@ -34,7 +34,7 @@ hi StatusLineNC ctermfg=0       ctermbg=0
 """""""""""""""""""""""""""""""""""""""
 hi Normal       ctermbg=none        ctermfg=15
 hi Statement    ctermbg=none        ctermfg=1
-hi Comment      ctermbg=none        ctermfg=5       cterm=italic
+hi Comment      ctermbg=none        ctermfg=5       
 hi String       ctermbg=none        ctermfg=3
 hi Number       ctermbg=none        ctermfg=4
 hi Error        ctermbg=1           ctermfg=15
@@ -55,7 +55,7 @@ hi Special      ctermbg=none        ctermfg=6
 hi Visual       ctermbg=236         ctermfg=none    cterm=none
 hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0       cterm=bold
-hi LineNr       ctermbg=none        ctermfg=234     cterm=none
+hi LineNr       ctermbg=none        ctermfg=247     cterm=none
 hi CursorLine   ctermbg=234         ctermfg=none    cterm=none
 hi CursorLineNr ctermbg=234         ctermfg=1       cterm=bold
 hi TabLine      ctermbg=none        ctermfg=none    cterm=none
