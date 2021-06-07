@@ -55,9 +55,9 @@ hi Special      ctermbg=none        ctermfg=6
 hi Visual       ctermbg=236         ctermfg=none    cterm=none
 hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0       cterm=bold
-hi LineNr       ctermbg=none        ctermfg=1       cterm=bold
+hi LineNr       ctermbg=none        ctermfg=234     cterm=none
 hi CursorLine   ctermbg=234         ctermfg=none    cterm=none
-hi CursorLineNr ctermbg=234         ctermfg=15      cterm=none
+hi CursorLineNr ctermbg=234         ctermfg=1       cterm=bold
 hi TabLine      ctermbg=none        ctermfg=none    cterm=none
 hi TabLineSel   ctermbg=1           ctermfg=0       cterm=bold
 hi TabLineFill  ctermbg=none        ctermfg=0
@@ -74,8 +74,8 @@ hi TabLineFill  ctermbg=none        ctermfg=black
 hi VertSplit    ctermbg=8           ctermfg=0
 hi Directory    ctermbg=0           ctermfg=3
 hi TagbarSignature  ctermbg=0       ctermfg=6
-hi MoreMsg      ctermbg=none        ctermfg=1       cterm=bold
-hi Question     ctermbg=none        ctermfg=1       cterm=bold
+hi MoreMsg      ctermbg=none        ctermfg=2       cterm=bold
+hi Question     ctermbg=none        ctermfg=2       cterm=bold
 
 """""""""""""""""""""""""""""""""""""""
 " Coc Colors
