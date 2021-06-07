@@ -55,7 +55,7 @@ hi Special      ctermbg=none        ctermfg=6
 hi Visual       ctermbg=236         ctermfg=none    cterm=none
 hi Cursor       ctermbg=none        ctermfg=15
 hi Search       ctermbg=3           ctermfg=0       cterm=bold
-hi LineNr       ctermbg=none        ctermfg=3       cterm=none
+hi LineNr       ctermbg=none        ctermfg=244     cterm=none
 hi CursorLine   ctermbg=234         ctermfg=none    cterm=none
 hi CursorLineNr ctermbg=234         ctermfg=1       cterm=bold
 hi TabLine      ctermbg=none        ctermfg=none    cterm=none
